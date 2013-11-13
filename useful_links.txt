@@ -1,1 +1,2 @@
-ng-book.com
+http://www.ng-book.com
+https://github.com/mgonto/restangular
