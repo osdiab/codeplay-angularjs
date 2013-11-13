@@ -1,0 +1,20 @@
+{
+  "name": "osdiab/codeplay-angularjs",
+  "version": "0.0.0",
+  "authors": [
+    "Omar Diab <o.s.diab@gmail.com>"
+  ],
+  "description": "Playing around with Angular JS",
+  "main": "js/app.js",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "~1.2.0"
+  }
+}
